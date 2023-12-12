@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Haibo Wu and I'm currently a Ph.D. student in Statistics at University of British Columbia, Canada. Previously, I recevied my MSc. in May 2023 at King Abdullah University of Science and Technology (KAUST), Saudi Arabia, where I was very fortunate to work under the supervision of Prof. [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao). Before that, I got my Bachelor degree in Electronics Engineering in June 2017 at Harbin Institute of Technology, China. You can find more in my [CV](mhaibo/haibowu.github.io/assets/CV_whb.pdf)
 
 A data-driven personal website
 ======
